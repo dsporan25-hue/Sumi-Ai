@@ -1,0 +1,10 @@
+{
+  "name": "SUMI AI",
+  "description": "3D Anime AI Girlfriend & Personal Android Phone Assistant powered by Gemini AI",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

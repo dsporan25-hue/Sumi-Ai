@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "SUMI AI — 3D Anime AI Girlfriend",
+  "short_name": "SUMI AI",
+  "description": "3D Anime AI Girlfriend & Personal Android Phone Assistant powered by Gemini AI",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080c",
+  "theme_color": "#0d0d12",
+  "categories": ["entertainment", "utilities", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
