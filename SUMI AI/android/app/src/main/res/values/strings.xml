@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SUMI AI</string>
+    <string name="title_activity_main">SUMI AI</string>
+    <string name="package_name">com.poran.sumi</string>
+    <string name="custom_url_scheme">com.poran.sumi</string>
+</resources>
